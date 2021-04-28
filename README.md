@@ -1,7 +1,10 @@
-
+> A RPG where movement in-game is moving in real life!
+> This Uses the accelerometer and compass.
 > Open this page at [https://bluebaritone21.github.io/micro-rpg/](https://bluebaritone21.github.io/micro-rpg/)
 
-## Edit this project ![Build status badge](https://github.com/bluebaritone21/micro-rpg/workflows/MakeCode/badge.svg)
+## Edit this project 
+
+![Build status badge](https://github.com/bluebaritone21/micro-rpg/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
