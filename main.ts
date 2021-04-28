@@ -1,4 +1,4 @@
-basic.forever(function () {
+basic.forever(function on_forever() {
     if (input.compassHeading() >= 315 || 45 >= input.compassHeading()) {
         basic.showArrow(ArrowNames.North)
     } else if (input.compassHeading() < 135 && 45 < input.compassHeading()) {
@@ -8,4 +8,5 @@ basic.forever(function () {
     } else {
         basic.showArrow(ArrowNames.East)
     }
+    
 })
